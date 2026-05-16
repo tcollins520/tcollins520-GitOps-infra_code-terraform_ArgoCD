@@ -239,20 +239,6 @@ During implementation, several production-style issues were identified and resol
 
 ---
 
-# 📸 Suggested Screenshots
-
-Add screenshots for:
-
-* ArgoCD Healthy/Synced dashboard
-* GitHub Actions successful pipeline
-* Terraform apply success
-* kubectl get pods
-* Live application in browser
-* Route53 DNS records
-* AWS Load Balancer
-
----
-
 # 🎯 Key Skills Demonstrated
 
 * Kubernetes Administration
