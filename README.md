@@ -160,17 +160,7 @@ Route53 propagation delays
 ArgoCD gRPC ingress issues
 Helm templating problems
 Kubernetes YAML validation issues
-📸 Suggested Screenshots
 
-Add screenshots for:
-
-Terraform apply success
-EKS cluster
-kubectl get nodes
-ArgoCD dashboard
-Running application
-Route53 records
-AWS Load Balancer
 GitHub Actions pipeline
 🎯 Key Skills Demonstrated
 Terraform Infrastructure as Code
