@@ -14,23 +14,23 @@ Application CI/CD repository
 Helm GitOps repository
 ArgoCD continuous deployment
 
-Terraform
+* Terraform
     ↓
-AWS Infrastructure
+* AWS Infrastructure
     ↓
-VPC + Networking
+* VPC + Networking
     ↓
-AWS EKS Cluster
+* AWS EKS Cluster
     ↓
-Managed Node Groups
+* Managed Node Groups
     ↓
-OIDC / IRSA
+* OIDC / IRSA
     ↓
-EBS CSI Driver
+* EBS CSI Driver
     ↓
-AWS Load Balancer Controller
+* AWS Load Balancer Controller
     ↓
-ArgoCD + Helm GitOps
+* ArgoCD + Helm GitOps
 
 ⚙️ Technologies Used
 Category	Technologies
